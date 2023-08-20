@@ -1,3 +1,4 @@
-#!/usr/bin/python3/PYFILE
-print("Best School")
+#!/usr/bin/
+python3/PYFILE
+
 
